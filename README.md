@@ -10,7 +10,7 @@ This was application was created using React and Firebase for learning purposes.
 ![main img]()
 
 <h2> Form page </h2>
-![form img](ghub-imgs/meetups/form.png?raw=true)
+![form img](form.png)
 
 <h2> Favorites </h2>
 ![fav img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
