@@ -7,10 +7,10 @@ This was application was created using React and Firebase for learning purposes.
 </p>
 
 <h2> Main page </h2>
-![This is an image](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png)
+![main img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png)
 
 <h2> Form page </h2>
-![form](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/form.png?raw=true)
+![form img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/form.png?raw=true)
 
 <h2> Favorites </h2>
-![fav](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
+![fav img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
