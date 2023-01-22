@@ -7,7 +7,7 @@ This was application was created using React and Firebase for learning purposes.
 </p>
 
 <h2> Main page </h2>
-![main img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
+![main img](https://raw.githubusercontent.com/levi7x/MyImages/main/ghub-imgs/meetups/fav.png?token=GHSAT0AAAAAAB2SLROCL7CRBBFNERG4IHVSY6NVM2Q)
 
 <h2> Form page </h2>
 ![form img](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/form.png?raw=true)
