@@ -7,4 +7,4 @@ This was application was created using React and Firebase for learning purposes.
 </p>
 
 
-[fav.png](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
