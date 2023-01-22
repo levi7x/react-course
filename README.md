@@ -5,8 +5,9 @@
 <p>
 This was application was created using React and Firebase for learning purposes. Website allowes you to create meetups and adding them to your favorites. It includes main basic features react has to offer such as using components and calling an api.  Project is reacreation from this original video https://www.youtube.com/watch?v=Dorf8i6lCuk
 </p>
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <h2> Main page </h2>
+
 ![This is an image](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
 ![main](https://github.com/levi7x/MyImages/blob/main/ghub-imgs/meetups/fav.png?raw=true)
 
